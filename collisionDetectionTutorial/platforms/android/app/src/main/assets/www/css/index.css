@@ -1,0 +1,37 @@
+.object{
+    border:2px solid black;
+}
+
+.info{
+    position: absolute;
+    top:0%;
+    left:5%
+}
+.mainBorder{
+
+    position:absolute; 
+    top:10%;
+    left:5%;
+    width:85%; 
+    height:85%;  
+}
+
+.player1{
+    position:absolute; 
+    top:25%;
+    left:25%;
+    width:25px; 
+    height:25px;
+    background-color:blue;
+    text-align: center;
+}
+.player2{
+    position:absolute; 
+    top:65%;
+    left:85%;
+    width:35px; 
+    height:35px;
+    background-color:green;
+    text-align: center;
+
+}
